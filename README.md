@@ -3,8 +3,10 @@ Combatting islamaphobia and half-witted uneducated biases towards Islamic values
 
 ## Credits
 
-https://github.com/taniaarya/islamophobia-dashboard
+[taniaarya/islamophobia-dashboard](https://github.com/taniaarya/islamophobia-dashboard)
 
-https://github.com/MahiraPutri149/Islamophobic_Indonesia
+[MahiraPutri149/Islamophobic_Indonesia](https://github.com/MahiraPutri149/Islamophobic_Indonesia)
 
-https://github.com/mhamzahgit/Islamophobia-Bias-Detector
+[mhamzahgit/Islamophobia-Bias-Detector](https://github.com/mhamzahgit/Islamophobia-Bias-Detector)
+
+[hk-mtsu/Language-agnostic-model-Detecting-Islamophobic-content-on-Social-Media](https://github.com/hk-mtsu/Language-agnostic-model-Detecting-Islamophobic-content-on-Social-Media/tree/master/Eng-Hin-data)
